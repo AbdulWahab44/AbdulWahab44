@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub world, where innovation meets code - [Farrukh Adeel](https://github.com/farrukhadeel67/)
+## 👋 Welcome to my GitHub world, where innovation meets code - [Abdul Wahab](https://github.com/AbdulWahab44/)
 
 
 ![Farrukh Adeel](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer)
