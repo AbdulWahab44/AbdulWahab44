@@ -5,10 +5,10 @@
 
 
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/farrukh-adeel-807a4a201">
+ <a href="https://www.linkedin.com/in/abdul-wahab-ba422926b/">
   <img src="https://img.shields.io/badge/linkedin-Farrukh%20Adeel-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:m.farrukhadeel@gmail.com">
+ <a href="mailto:abdulwahab9222822@gmail.com">
   <img src="https://img.shields.io/badge/Email-m.farrukhadeel%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
