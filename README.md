@@ -66,8 +66,8 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) 
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) 
 
-<!--
 
+<!--
 
 Here are some ideas to get you started:
 
@@ -79,4 +79,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
