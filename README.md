@@ -19,23 +19,15 @@
 <br>
 
 Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my creativity through elegant code, breathing life into extraordinary digital realms.
-
 <br>
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab44&theme=tokyonight&count_private=true&langs_count=8&layout=compact.) 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab44&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
 <br>
-
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=AbdulWahab44&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) 
-
 <br>
 <!--&hide=contribs -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWahab44&theme=react&hide_border=false" alt="yensubldg"/>
-
 <br>
-
-
 
 ### 🛠️ Core Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
