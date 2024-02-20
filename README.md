@@ -23,6 +23,8 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab44&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada) -->
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <br>
 
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=AbdulWahab44&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) 
